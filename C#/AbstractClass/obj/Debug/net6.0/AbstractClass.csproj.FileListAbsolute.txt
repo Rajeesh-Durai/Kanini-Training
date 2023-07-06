@@ -1,0 +1,15 @@
+F:\AbstractClass\bin\Debug\net6.0\AbstractClass.exe
+F:\AbstractClass\bin\Debug\net6.0\AbstractClass.deps.json
+F:\AbstractClass\bin\Debug\net6.0\AbstractClass.runtimeconfig.json
+F:\AbstractClass\bin\Debug\net6.0\AbstractClass.dll
+F:\AbstractClass\bin\Debug\net6.0\AbstractClass.pdb
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.AssemblyReference.cache
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfoInputs.cache
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.AssemblyInfo.cs
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.csproj.CoreCompileInputs.cache
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.dll
+F:\AbstractClass\obj\Debug\net6.0\refint\AbstractClass.dll
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.pdb
+F:\AbstractClass\obj\Debug\net6.0\AbstractClass.genruntimeconfig.cache
+F:\AbstractClass\obj\Debug\net6.0\ref\AbstractClass.dll

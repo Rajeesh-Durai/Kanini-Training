@@ -1,0 +1,15 @@
+F:\Mar26\obj\Debug\net6.0\Mar26.csproj.AssemblyReference.cache
+F:\Mar26\obj\Debug\net6.0\Mar26.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mar26\obj\Debug\net6.0\Mar26.AssemblyInfoInputs.cache
+F:\Mar26\obj\Debug\net6.0\Mar26.AssemblyInfo.cs
+F:\Mar26\obj\Debug\net6.0\Mar26.csproj.CoreCompileInputs.cache
+F:\Mar26\bin\Debug\net6.0\Mar26.exe
+F:\Mar26\bin\Debug\net6.0\Mar26.deps.json
+F:\Mar26\bin\Debug\net6.0\Mar26.runtimeconfig.json
+F:\Mar26\bin\Debug\net6.0\Mar26.dll
+F:\Mar26\bin\Debug\net6.0\Mar26.pdb
+F:\Mar26\obj\Debug\net6.0\Mar26.dll
+F:\Mar26\obj\Debug\net6.0\refint\Mar26.dll
+F:\Mar26\obj\Debug\net6.0\Mar26.pdb
+F:\Mar26\obj\Debug\net6.0\Mar26.genruntimeconfig.cache
+F:\Mar26\obj\Debug\net6.0\ref\Mar26.dll

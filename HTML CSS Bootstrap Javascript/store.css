@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+
+*{
+    box-sizing: border-box;
+    font-family: Raleway;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul{
+    margin: 0;
+
+}
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px rgba(255, 255,255, .3);
+}
+.main-nav{
+    padding: 0 5%;
+}
+.nav li{
+    display: inline;
+}
+.nav a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: .5em;
+}
+.nav a:hover{
+    background-color: rgba(255, 255,255, .3);
+}
+.main-header{
+    background-color: rgba(0,0,0,.6);
+    background-image: url("F:\images.jpg");
+    background-blend-mode:multiply ;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+.band-name{
+    font-family: "Booter zero-zero";
+    font-size: 4em;
+    text-align: center;
+    font-weight: normal;
+    font-weight: normal;
+    color:white;
+}
+.band-name-large{
+    font-size: 6em;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.section-header{
+    font-family: "Metal Mania";
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+    font-size: 2.5em;
+}
+.shop-item{
+    width: 30px;
+}
+.shop-item-image{
+    height: 30px;
+}
+
+
+.button{
+    max-width: 19%;
+    cursor: pointer;
+    background-color: #56ccf2;
+    border: none;
+    color: white;
+    border-radius: 1.5em;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: darkblue;
+}
+.shop-item-details{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.shop-item-price{
+    flex-grow: 1;
+    color: #333;
+}
+.shop-items{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.main-footer{
+    background-color: #56ccf2;
+    color: white;
+    padding: .25em 0;
+}
+
+.main-footer-container{
+    display: flex;
+}
+
+.main-footer-container ul{
+    flex-grow: 1;
+    text-align: end;
+}
+.footer-nav li{
+    padding:0 .5em;
+}
+.footer-nav img{
+    width: 30px;
+    height: 30px;
+}

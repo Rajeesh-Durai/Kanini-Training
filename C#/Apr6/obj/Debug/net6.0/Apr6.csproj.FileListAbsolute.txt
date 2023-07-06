@@ -1,0 +1,15 @@
+F:\Apr6\bin\Debug\net6.0\Apr6.exe
+F:\Apr6\bin\Debug\net6.0\Apr6.deps.json
+F:\Apr6\bin\Debug\net6.0\Apr6.runtimeconfig.json
+F:\Apr6\bin\Debug\net6.0\Apr6.dll
+F:\Apr6\bin\Debug\net6.0\Apr6.pdb
+F:\Apr6\obj\Debug\net6.0\Apr6.csproj.AssemblyReference.cache
+F:\Apr6\obj\Debug\net6.0\Apr6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Apr6\obj\Debug\net6.0\Apr6.AssemblyInfoInputs.cache
+F:\Apr6\obj\Debug\net6.0\Apr6.AssemblyInfo.cs
+F:\Apr6\obj\Debug\net6.0\Apr6.csproj.CoreCompileInputs.cache
+F:\Apr6\obj\Debug\net6.0\Apr6.dll
+F:\Apr6\obj\Debug\net6.0\refint\Apr6.dll
+F:\Apr6\obj\Debug\net6.0\Apr6.pdb
+F:\Apr6\obj\Debug\net6.0\Apr6.genruntimeconfig.cache
+F:\Apr6\obj\Debug\net6.0\ref\Apr6.dll

@@ -1,0 +1,15 @@
+F:\Multi\bin\Debug\net6.0\Multi.exe
+F:\Multi\bin\Debug\net6.0\Multi.deps.json
+F:\Multi\bin\Debug\net6.0\Multi.runtimeconfig.json
+F:\Multi\bin\Debug\net6.0\Multi.dll
+F:\Multi\bin\Debug\net6.0\Multi.pdb
+F:\Multi\obj\Debug\net6.0\Multi.csproj.AssemblyReference.cache
+F:\Multi\obj\Debug\net6.0\Multi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Multi\obj\Debug\net6.0\Multi.AssemblyInfoInputs.cache
+F:\Multi\obj\Debug\net6.0\Multi.AssemblyInfo.cs
+F:\Multi\obj\Debug\net6.0\Multi.csproj.CoreCompileInputs.cache
+F:\Multi\obj\Debug\net6.0\Multi.dll
+F:\Multi\obj\Debug\net6.0\refint\Multi.dll
+F:\Multi\obj\Debug\net6.0\Multi.pdb
+F:\Multi\obj\Debug\net6.0\Multi.genruntimeconfig.cache
+F:\Multi\obj\Debug\net6.0\ref\Multi.dll
