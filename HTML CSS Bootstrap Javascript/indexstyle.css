@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding:5px ;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.7em;
+}
+.container li{
+    display: inline;
+}
+#navbar h1{
+    float: left;
+}
+.container li a{
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+}
+#navbar{
+    background-color: black;
+    overflow: auto;
+
+}
+#navbar ul{
+    float: right;
+}
+.container{
+    max-width: 1100px;
+    overflow: auto;
+}
+.container li a:hover{
+    background-color: cornflowerblue;
+}
