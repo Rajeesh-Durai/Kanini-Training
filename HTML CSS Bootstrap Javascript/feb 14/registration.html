@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Registration form</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-color: rgba(0,0,0,.4);
+            background-image: url(360_F_145580363_EYJxXoZlXNXVBifly22WSQj44WWTcZwg.jpg);
+            background-blend-mode:multiply ;
+            background-size: cover;
+        }
+    </style></head>
+    <body style="color: white; font-size: 25px;font-family:Arial, Helvetica, sans-serif" >
+        <header>
+            <img src="logo.png" width="200"></header>
+        <h2 align="center" style="color: orangered; padding-bottom: 25px; " align="center">REGISTRATION FORM</h2>
+        <div style="font-size: 20px; border: black solid; color: rgba(134, 251, 17, 0.864);" align="center">
+        <label for="name">NAME :</label>
+        <input type="text" id="name" placeholder="First Name" required >
+        <input type="text" id="name" placeholder="Last Name">
+        <br><br>
+       <label for="gen">GENDER :</label>
+        <input type="radio" id="m" name="gen"><label style="color: white;" for="m">Male</label>
+        <input type="radio" id="f" name="gen"><label style="color: white;" for="f">Female</label><br><br>
+        <label for="ht">HEIGHT :</label>
+        <input type="tel" id="ht" placeholder="In Feet" required><br><br>
+        <label for="wt">WEIGHT :</label>
+        <input type="tel" id="wt" placeholder="In kg" required><br><br>
+        <label for="add">ADDRESS</label> 
+        <textarea id="add" rows="5" cols="20" placeholder="Enter your address" required></textarea><br><br>
+        <label for="mbl">MOBILE NO :</label>
+        <input type="tel" id="mbl" maxlength="13" placeholder="enter your number" required><br><br>
+        <label for="em">EMAIL ID :</label>
+        <input type="email" id="em" placeholder="sample@gmail.com" required>
+        <br><br>
+        <input style="background-color: rgba(134, 251, 17, 0.864) ;color: black;; cursor: pointer; font-size: 30px;" type="submit" value="SUBMIT" onclick="alert('Registration Successfull')">   
+    </div> 
+    </body>
+</html>

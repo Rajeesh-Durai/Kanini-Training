@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.nav {
+   
+    margin-top: 2%;
+    padding: 0 40%;
+    background-color: orangered;
+    
+}
+img{
+    align-items: start;
+}
+
+.cls-nav{
+    font-size: 1.1em;
+    font-weight: lighter;
+   
+}
+
+
+.nav li{
+    display: flex;
+
+}
+.nav a{
+    display: inline-block;
+    text-decoration:none;
+    color: aliceblue;
+}
+.nav a:hover{
+    text-decoration: overline black;
+    
+}

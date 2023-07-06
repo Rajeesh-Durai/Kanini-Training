@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head><title>form</form></title>
+    <link rel="stylesheet" href="formstyle.css">
+    </head>
+    <body>
+        <form>
+            <fieldset>
+                <legend align="center"><b>PERSONAL DETAILS</b></legend>
+            <label for="fname">FIRSTNAME :</label>
+            <input type="text" id="fname">
+            <br>
+            <label for="lname">LASTNAME :</label>
+            <input type="text" id="lname">
+            <br>
+            <label for="em">EMAIL ID :</label>
+            <input type="email" id="em" required>
+            <br>
+            <label for="pwd">PASSWORD</label>
+            <input type="password" id="pwd"><br>
+            <label for="confirm">CONFIRM PASSWORD</label>
+            <input type="text" id="confirm"><br>
+            <label for="add">ADDRESS</label>
+            <textarea id="add" rows="5" cols="20"></textarea><br>
+            <label for="mbl">number :</label>
+            <input type="tel" id="mbl" maxlength="10">
+            <br>
+            <label for="gnd">GENDER :</label>
+            <input type="radio" id="m" name="gnd"><label for="m">MALE</label>
+            <input type="radio" id="f" name="gnd"><label for="f">FEMALE</label><br>
+            <label for="hby">HOBBY</label>
+            <input type="checkbox" id="c" name="hby"><label for="c">CRICKET</label> 
+            <input type="checkbox" id="f" name="hby"><label for="f">FOOTBALL</label> 
+            <br>
+            <label for="ext">EXTRA CURRICULAR :</label>
+            <select id="ext" multiple>
+                <option value="NCC" >NCC</option>
+                <option value="YOGA" >YOGA</option>
+            </select><br>
+            <label for="dob">DOB :</label>
+            <input type="datetime-local" id="dob">
+            <br>
+            <label for="clr">COLOR :</label>
+            <input type="color" id="clr">
+            <br>
+        <input type="submit" value="confirm">
+        <input type="reset" >
+        <br><br>
+        <label for="cou">FAV COUNTRY</label>
+        <input list="countries" id="cou">
+        <datalist id="countries">
+        <option value="INDIA">INDIA</option>
+        <option value="USA">USA</option>
+        <option value="INDONESIA">INDONESIA</option>
+        </datalist>
+    </fieldset>
+        </form>
+    </body>
+</html>
