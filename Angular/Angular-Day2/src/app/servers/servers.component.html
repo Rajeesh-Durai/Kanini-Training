@@ -1,0 +1,22 @@
+<p>servers works!</p>
+<button type="button" class="btn btn-primary">Click me</button>
+<label>Server count: </label>
+<!-- <input type="text" [(ngModel)]="num" /><br />
+<div [ngSwitch]="num">
+  Server count
+  <div *ngSwitchCase="'1'">One</div>
+  <div *ngSwitchCase="'2'">Two</div>
+  <div *ngSwitchCase="'3'">Three</div>
+  <div *ngSwitchCase="'4'">Four</div>
+</div> -->
+
+<select id="serverSelected" [(ngModel)]="serverSelected">
+  <option *ngFor="let server of serverList">{{ server }}</option>
+</select>
+<div [ngSwitch]="serverSelected">
+  Server count
+  <div *ngSwitchCase="'S1'">One</div>
+  <div *ngSwitchCase="'S2'">Two</div>
+  <div *ngSwitchCase="'S3'">Three</div>
+  <div *ngSwitchCase="'S4'">Four</div>
+</div>
