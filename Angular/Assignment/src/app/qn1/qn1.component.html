@@ -1,0 +1,25 @@
+<h2>Question 1.</h2>
+<form [formGroup]="tempForm" novalidate>
+  <label for="temp">Enter the Temperature:</label><br />
+  <input
+    id="temp"
+    name="initialTemp"
+    formControlName="initialTemp"
+    [(ngModel)]="temp1"
+    required
+  /><br />
+  <div
+    *ngIf="!initialTemp?.errors?.['valid'] && (initialTemp?.dirty || initialTemp?.touched)"
+  >
+    <div *ngIf="initialTemp?.errors?.['tempcheck']">Enter a Number</div>
+  </div>
+  <p>Convert to</p>
+  <select formControlName="selectedTemp">
+    <option value="celsius">Celsius</option>
+    <option value="fahrenheit">Fahrenheit</option></select
+  ><br /><br />
+
+  <button class="btn-primary" (click)="handleCheck()">Convert</button>
+  <div>{{ output }} {{ unit }}</div>
+  <p>{{ tempForm.valid }}</p>
+</form>

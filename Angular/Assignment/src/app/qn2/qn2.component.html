@@ -1,0 +1,20 @@
+<p>
+  ------------------------------------------------------------------------------------------
+</p>
+<p>Question 2</p>
+<form [formGroup]="urlForm">
+  <div>
+    <p>Enter the Url</p>
+    <input
+      name="urlName"
+      formControlName="urlName"
+    /><!--sample url: www.google.com-->
+    <br /><br />
+    <button type="submit" (click)="shorten()">Shorten</button>
+    <div>
+      {{ output }}
+    </div>
+    <p>Click here to copy the link!!</p>
+    <button (click)="copyFn()">Copy</button>
+  </div>
+</form>
